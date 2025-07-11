@@ -1,4 +1,4 @@
-name: Node.js CI
+name: adriyan bot
 
 on:
   workflow_dispatch:
